@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Meow meow",
     desc: "เป็นชิ้นงานที่เกี่ยวกับการขายสินค้าดีเกี่ยวกับแมว",
-    tags: ["Tailwind", "Accessibility", "SEO"],
+    tags: ["Cat", "Shop", "Product"],
     img: "https://cdn.discordapp.com/attachments/1403000632582864946/1408112121279152289/image.png?ex=68a88e1b&is=68a73c9b&hm=777b4a5d77d07a58a86b0b94dbd404e74ccca2d8f0067c8e362c966da0fe032f&",
     link: "https://render-react-2rcq.onrender.com/",
   },
